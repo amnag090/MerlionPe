@@ -1,0 +1,2 @@
+rootProject.name = "SGD_to_INR"
+include ':app'
